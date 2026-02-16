@@ -4,46 +4,47 @@ Backend Engineer
 
 ---
 
-## About
+## 👨‍💻 About
 
-Software engineer with 4+ years of experience building production systems using Node.js, NestJS, PostgreSQL, and AWS.
+Backend engineer with 5+ years of experience designing and operating production systems using Node.js, NestJS, PostgreSQL, and AWS.
 
-Currently transitioning toward backend infrastructure and systems engineering, focusing on performance, concurrency, and database internals.
+Strong background in application architecture, database design, and cloud deployments. Currently deepening focus on backend infrastructure, performance engineering, and systems-level fundamentals.
 
 ---
 
-## Core Focus
+## 🧠 Core Focus
 
-- Backend architecture
-- Query optimization & database design
-- Concurrency models
+- Backend system design
+- Query optimization & indexing strategy
+- Concurrency models & runtime behavior
 - Networking fundamentals
 - Systems programming (Go)
 
 ---
 
-## Tech
+## 🛠 Tech Stack
 
-Backend:
+### ⚙️ Backend
 - Node.js
 - NestJS
 - PostgreSQL
 - Go
 
-Infrastructure:
+### ☁️ Infrastructure
 - AWS (EC2, S3, RDS)
 - Docker
 
-Frontend (previously focused):
+### 🖥 Frontend
 - Angular
 - NgZorro
+- PrimeNg
 
 ---
 
-## Direction
+## 🎯 Direction
 
 Building deep systems knowledge to design scalable backend infrastructure and developer-focused tools.
 
 ---
 
-Linkedin: https://github.com/your-username](https://www.linkedin.com/in/hushaam-shah/
+📫 LinkedIn: https://www.linkedin.com/in/hushaam-shah
